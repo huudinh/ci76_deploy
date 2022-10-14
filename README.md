@@ -20,9 +20,9 @@ git push -u origin main
 https://huudinh.github.io/ci76_deploy
 
 # 7 deploy again
-# a. run add . / commit / push
-# b. npm run build
-# c. npm run deploy
+npm run build
+npm run deploy
+run add . / commit / push
 
 # Getting Started with Create React App
 
