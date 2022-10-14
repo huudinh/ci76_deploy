@@ -9,15 +9,15 @@ b. add deploy và predeploy in "scripts"
 "deploy": "gh-pages -d build" Deploy the "build" folder
 
 # 5 Setup Github Repo
-# git init
-# git add .
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https:#github.com/huudinh/deploy-hello.git
-# git push -u origin main
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/huudinh/ci76_deploy.git
+git push -u origin main
 
 # 6 npm run deploy
-# https:#huudinh.github.io/deploy-hello
+https://huudinh.github.io/ci76_deploy
 
 # 7 deploy again
 # a. run add . / commit / push
